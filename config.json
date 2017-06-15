@@ -1,0 +1,16 @@
+{
+    "host" : "your_host_database",
+    "database" : "your_database",
+    "port" : "3306",
+    "maxPoolSize": "5",
+    "minPoolSize": "0",
+    "idlePool": "100000",
+    "username" : "root",
+    "password" : "passw",
+
+    "defaultPort": "8050",
+    "timeUserCache": "300",
+    
+    "AddressTCPServerAuth": "127.0.0.1",
+    "portTCPServerAuth": "1337"
+}
